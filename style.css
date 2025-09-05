@@ -12,7 +12,7 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  background: radial-gradient(#089627 0%, #044712 55%,#fdb009 0%, #fdb009 63%, #97062a 0% , #97062a 20% );
+  background: radial-gradient(#97062a 0% , #97062a 55%,#fdb009 0%, #fdb009 63%,#089627 0%, #044712 20%);
 }
 
 .wrapper2{
@@ -89,13 +89,6 @@ body{
   position: absolute;
   border-radius: 50%;
   transform: translate(-50%, -50%);
-  background: radial-gradient(#97062a 0%, #97062a 4%, #f7eea2 0%, #f7eea2 13%,#044712 0%, #044712 28%, #ff6f1c 0%, #ff6f1c 42%, #97062a 0%, #97062a 56%,  #96085b 0%, #96085b 67%, #111111 0%, #111111 100%);
+  background: radial-gradient(#044712 0%, #044712 4%, #f7eea2 0%, #f7eea2 13%,#97062a 0%, #97062a 28%, #ff6f1c 0%, #ff6f1c 42%, #96085b 0%, #96085b 56%,  #97062a 0%, #97062a 67%, #111111 0%, #111111 100%);
   z-index: 21;
 }
-
-
-/*
-#7f0000
-#bf360c
-#ff6f00
-#fbc02d */
